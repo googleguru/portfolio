@@ -54,7 +54,7 @@ const Experience = () => {
     {
       id: 4,
       type: "professional",
-      title: "Visiting Post Doctoral Fellow",
+      title: "Post Doctoral Fellow",
       organization: "City University of London",
       location: "London, UK",
       period: "2023 - 2024",
@@ -72,15 +72,6 @@ const Experience = () => {
     {
       id: 6,
       type: "education",
-      title: "Post Doctoral Fellowship",
-      organization: "City University of London",
-      location: "London, UK",
-      period: "2023 - 2024",
-      description: "Department of Electrical and Electronics Engineering, School of Science and Technology.",
-    },
-    {
-      id: 7,
-      type: "education",
       title: "Ph.D. in Information & Communication Engineering",
       organization: "Anna University",
       location: "Chennai",
@@ -88,7 +79,7 @@ const Experience = () => {
       description: "Research focus on VLSI design optimization and machine learning applications.",
     },
     {
-      id: 8,
+      id: 7,
       type: "education",
       title: "M.E. in VLSI Design",
       organization: "Mepco Schlenk Engineering College",
@@ -97,22 +88,13 @@ const Experience = () => {
       description: "Graduated with first class honors.",
     },
     {
-      id: 9,
+      id: 8,
       type: "education",
       title: "B.E. in Electronics and Communication Engineering",
       organization: "RVS College of Engineering and Technology",
       location: "Dindigul",
       period: "2010 - 2014",
       description: "Graduated with first class honors.",
-    },
-    {
-      id: 10,
-      type: "award",
-      title: "கல்வி திலகம் Award",
-      organization: "Lions Clubs International",
-      location: "International",
-      period: "2024",
-      description: "Recognized for outstanding contributions to education and community service.",
     }
   ];
 
@@ -148,6 +130,10 @@ const Experience = () => {
     { 
       id: 5, 
       description: "Received the கல்வி திலகம் award from Lions Clubs International in October 2024, recognizing outstanding contributions to education and community service."
+    },
+    { 
+      id: 6, 
+      description: "Completed over 300 AI-based online courses on LinkedIn, edX, and AWS, demonstrating continuous learning and commitment to professional development in artificial intelligence and technology."
     }
   ];
 

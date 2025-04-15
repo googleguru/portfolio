@@ -35,6 +35,16 @@ const Publications = () => {
 
   const publications: Publication[] = [
     {
+      id: 22,
+      title: "Grey wolf optimization (GWO) based efficient partitioning algorithm VLSI circuits for reducing the interconnections",
+      authors: "Guru, R.P., Vaithianathan, V.",
+      journal: "Analog Integrated Circuits and Signal Processing 123",
+      year: 2025,
+      tags: ["VLSI", "Grey Wolf Optimization", "Circuit Partitioning", "Interconnections"],
+      abstract: "This research presents an efficient VLSI circuit partitioning algorithm based on Grey Wolf Optimization (GWO) technique, focusing on reducing interconnections to improve circuit performance and optimize design parameters.",
+      doi: "10.1007/s10470-025-02334-y"
+    },
+    {
       id: 1,
       title: "A secure authentication and optimization based device-to-device communication for 5G enabled IoT applications of smart cities",
       authors: "Rani, T.P., Maruthu, A., Pavithra Guru R., et al.",
