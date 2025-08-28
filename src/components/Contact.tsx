@@ -76,27 +76,14 @@ const Contact = () => {
                 
                 <div className="flex items-start gap-4">
                   <div className="p-2.5 bg-accent/70 text-primary/80 rounded-md mt-0.5">
-                    <Phone className="h-5 w-5" />
-                  </div>
-                  <div>
-                    <h4 className="font-medium text-primary/80">Phone</h4>
-                    <a href="tel:+919042183891" className="text-primary hover:text-primary/70 transition-colors">
-                      +91 9042183891
-                    </a>
-                    <div className="text-primary/70 text-sm mt-1">Alternative: +91 9486654109</div>
-                  </div>
-                </div>
-                
-                <div className="flex items-start gap-4">
-                  <div className="p-2.5 bg-accent/70 text-primary/80 rounded-md mt-0.5">
                     <MapPin className="h-5 w-5" />
                   </div>
                   <div>
                     <h4 className="font-medium text-primary/80">Address</h4>
                     <p className="text-primary/80">
-                      No:47/A Ganapathy Nagar<br />
-                      Ashok Nagar<br />
-                      Kanchipuram-631501<br />
+                      SRM Institute of Science and Technology<br />
+                      Potheri<br />
+                      Chengalpattu-603203<br />
                       Tamil Nadu, India
                     </p>
                   </div>

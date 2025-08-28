@@ -35,9 +35,29 @@ const Publications = () => {
 
   const publications: Publication[] = [
     {
+      id: 24,
+      title: "Optimized Auxiliary Classifier Wasserstein Generative Adversarial Network espoused Hypergraph Partitioning for VLSI Circuit Design",
+      authors: "Pavithra Guru R",
+      journal: "International Journal of Information Technology & Decision Making",
+      year: 2025,
+      tags: ["Auxiliary classifier Wasserstein generative adversarial network", "binary emperor Penguin optimization algorithm", "hypergraph partitioning", "VLSI"],
+      abstract: "Framework effectively enhances hypergraph partitioning for VLSI circuit design, improving efficiency in floor planning, reducing resource consumption and outperforming existing methodologies",
+      doi: "https://doi.org/10.1142/S0219622025500610"
+    },
+    {
+      id: 23,
+      title: "Cellular automata-based framework for yield optimization in VLSI physical design of large-scale benchmark circuits",
+      authors: "Pavithra Guru R, Vaithianathan, V.",
+      journal: "Journal of Ambient Intelligence and Humanized Computing",
+      year: 2025,
+      tags: ["Circuit partitioning", "Cut cost", "Graph cellular automata", "Hyper-path delay", "Post-layout simulation", "Time complexity"],
+      abstract: "the graph cellular automata (GCA) algorithm, aimed at reducing latency, area, interconnect length, and cut size",
+      doi: "https://doi.org/10.1007/s12652-025-04990-4"
+    },
+    {
       id: 22,
       title: "Grey wolf optimization (GWO) based efficient partitioning algorithm VLSI circuits for reducing the interconnections",
-      authors: "Guru, R.P., Vaithianathan, V.",
+      authors: "Pavithra Guru R, Vaithianathan, V.",
       journal: "Analog Integrated Circuits and Signal Processing 123",
       year: 2025,
       tags: ["VLSI", "Grey Wolf Optimization", "Circuit Partitioning", "Interconnections"],
